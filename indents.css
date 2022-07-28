@@ -1,0 +1,24 @@
+<style>
+  .padmarg{
+    padding: 10px 20px 15px;
+    margin: 10px 0px;
+    background-color: black;
+    color: white;
+  }
+
+  .square {
+   width: 100px;
+   height: 100px;
+   background-color: #000;
+   }
+  </style>
+
+  <div class="padmarg">Что делает верстальщик? Создаёт страницы с помощью HTML и CSS. Умеет пользоваться возможностями модулей Flex и Grid. Использует препроцессор SASS,
+  шаблонизатор Pug и собирает проекты с помощью Gulp.
+  </div>
+
+  <div class="padmarg">Следит за доступностью сайта,
+  создавая семантически правильную разметку. Создаёт компоненты и утилиты на Bootstrap. Верстает адаптивные проекты
+  </div>
+
+  <div class=square></div>
