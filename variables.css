@@ -1,0 +1,14 @@
+<style>
+:root {
+   --main-blue: #00bfff:
+}
+
+.news-block {
+   background-color: var(--main-blue);
+}
+
+.left-sidebar {
+   background-color: var(--main-blue);
+}
+
+</style>
